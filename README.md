@@ -24,7 +24,7 @@ project title:
 8 Poster_Url: Url of the movie poster.
 
 
-got some information from data after cleanning and visualizing:
+got some informations from data after cleanning and visualizing:
 
 # Q1: What is the most frequent genre in the dataset?
 -Drama
